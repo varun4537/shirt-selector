@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shirt-selector/static/css/main.e6c13ad2.css",
-    "main.js": "/shirt-selector/static/js/main.42f0308a.js",
+    "main.js": "/shirt-selector/static/js/main.2f6d4578.js",
     "static/js/453.3b059a0c.chunk.js": "/shirt-selector/static/js/453.3b059a0c.chunk.js",
     "index.html": "/shirt-selector/index.html",
     "main.e6c13ad2.css.map": "/shirt-selector/static/css/main.e6c13ad2.css.map",
-    "main.42f0308a.js.map": "/shirt-selector/static/js/main.42f0308a.js.map",
+    "main.2f6d4578.js.map": "/shirt-selector/static/js/main.2f6d4578.js.map",
     "453.3b059a0c.chunk.js.map": "/shirt-selector/static/js/453.3b059a0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.42f0308a.js"
+    "static/js/main.2f6d4578.js"
   ]
 }
